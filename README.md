@@ -1,1 +1,3 @@
 # inquirer-ex
+
+Inquirer examples
